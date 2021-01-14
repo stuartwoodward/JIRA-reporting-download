@@ -5,7 +5,9 @@ import os
 import csv
 
 li = []
-outputfilepath = 'C:\\Users\\stuart.woodward\\Desktop\\06. Python\\'
+#outputfilepath = 'C:\\Users\\stuart.woodward\\Desktop\\06. Python\\'
+outputfilepath = 'C:\\Users\\Stuart.Woodward\\Intelematics Australia Pty Ltd\\DMS - ARC\\02. Continuous improvement\\03. Metrics\\'
+#import_field = 'Labels'
 import_field = 'Fix versions'
 ImportIndex=[]
 KeyIndex=[]
